@@ -1,0 +1,4 @@
+openai==0.27.2
+streamlit==1.27.2
+pydub==0.25.1
+opencc-python-reimplemented
