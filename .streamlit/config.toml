@@ -1,15 +1,9 @@
-[
-server
-]
+[server]
 runOnSave = false
 
-[
-browser
-]
+[browser]
 serverAddress = "0.0.0.0"
 serverPort = 8501
 
-[
-global
-]
+[global]
 developmentMode = false
